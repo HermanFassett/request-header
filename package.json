@@ -1,0 +1,11 @@
+{
+  "name": "hermanfassett",
+  "version": "0.0.0",
+  "description": "Herman Fassett",
+  "main": "server.js",
+  "repository": "",
+  "author": "Herman Fassett",
+  "dependencies": {
+    "express": "~4.13.3"
+  }
+}
