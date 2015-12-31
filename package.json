@@ -1,7 +1,7 @@
 {
-  "name": "hermanfassett",
+  "name": "Request-Header",
   "version": "0.0.0",
-  "description": "Herman Fassett",
+  "description": "Basejump: Request Header Parser Microservice",
   "main": "server.js",
   "repository": "",
   "author": "Herman Fassett",
